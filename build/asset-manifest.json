@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/steamer-test/static/css/main.afd24679.chunk.css",
+    "main.js": "/steamer-test/static/js/main.35faac02.chunk.js",
+    "main.js.map": "/steamer-test/static/js/main.35faac02.chunk.js.map",
+    "runtime-main.js": "/steamer-test/static/js/runtime-main.93e3bbf7.js",
+    "runtime-main.js.map": "/steamer-test/static/js/runtime-main.93e3bbf7.js.map",
+    "static/js/2.fbaba27c.chunk.js": "/steamer-test/static/js/2.fbaba27c.chunk.js",
+    "static/js/2.fbaba27c.chunk.js.map": "/steamer-test/static/js/2.fbaba27c.chunk.js.map",
+    "static/js/3.aae2cef3.chunk.js": "/steamer-test/static/js/3.aae2cef3.chunk.js",
+    "static/js/3.aae2cef3.chunk.js.map": "/steamer-test/static/js/3.aae2cef3.chunk.js.map",
+    "index.html": "/steamer-test/index.html",
+    "static/css/main.afd24679.chunk.css.map": "/steamer-test/static/css/main.afd24679.chunk.css.map",
+    "static/js/2.fbaba27c.chunk.js.LICENSE.txt": "/steamer-test/static/js/2.fbaba27c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93e3bbf7.js",
+    "static/js/2.fbaba27c.chunk.js",
+    "static/css/main.afd24679.chunk.css",
+    "static/js/main.35faac02.chunk.js"
+  ]
+}
